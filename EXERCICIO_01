@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Exercicio 01 </title>
+</head>
+<body>
+
+
+        <p>  <strong>Exercico 01  texto em HTMLstrong</strong>
+        </p>
+
+
+        <p>Exercico_01  usando a tag <strong>strong</strong>
+            </p>
+<p >
+
+    O Padrão da abnt nos obriga usar <EM> ITALICO</EM>
+</p>
+
+<p>
+<q>
+    Eu descobri que, quanto mais eu trabalho mais sorte eu pareço ter 
+</q>
+<br>
+Thomas Jefferson.
+</p>
+
+
+<p>Bolsonaro é presidente do <abbr title="Brasil">Brasil</abbr></p>
+
+
+
+
+<p><dfn id="def-internet">A Internet</dfn> é um sistema global de redes interconectadas que usam o Internet Protocol Suite (TCP/IP) para servir bilhões de usuários no mundo todo.
+</p>
+
+
+
+
+<address><a href="leandro.sampaio.017@outlook.com">leandro.sampaio.017@outlook.com</a></address>
+
+
+
+
+<p>minha cor favorita é <del>azul</del> <ins>Vermelho</ins>!</p>
+
+
+
+<p><del>Esse texto foi deletado</del></p>
+
+
+
+<p><s>Meu carro é azul </s></p>
+
+
+<p>H<sup>2</sup>O</p>
+
+
+<p>H<SUB>2</suB>O</p>
+
+
+
+<footer>
+        Mais informações podem ser encontrada em <cite>[ISO-0000]</cite>. 
+
+</footer>
+
+
+</body>
+</html>
